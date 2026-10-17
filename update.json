@@ -1,7 +1,7 @@
 {
-    "version_number": 106,
+    "version_number": 107,
     "version": "1.0",
     "url": "https://raw.githubusercontent.com/WolvesV/farfortools/main/farfortools.luac",
-    "size": 1258843,
-    "changelog": ["Добавлено: обновление /amenu, профиль, авторизация и интеграция сайта."]
+    "size": 1262152,
+    "changelog": ["Добавлено: аватар и интеграция сайта."]
 }
